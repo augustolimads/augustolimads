@@ -1,10 +1,10 @@
-## Hi! I am Augusto Lima </br>Front-end developer & UI designer
+## Hi! I am Augusto Lima </br>Front-End developer
 
 > Focused on making websites with nice look and functional;
 
 > Work with web development since 2019;
 
-### My actual favorit tecnologies are:
+### I'm studiyng and improving:
 * React with hooks 
 * NextJS
 * TailwindCSS
