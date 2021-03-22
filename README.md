@@ -1,14 +1,8 @@
-## Hi! I am Augusto Lima </br>Front-End developer
+## Hi! I am Augusto Lima </br>Front-End Developer
 
 > Focused on making websites with nice look and functional;
 
-> Work with web development since 2019;
-
-### I'm studiyng and improving:
-* React with hooks 
-* NextJS
-* TailwindCSS
-* NodeJS
+> Work with web development remotely since 2019;
 
 ### Would you like to contact me?
 
