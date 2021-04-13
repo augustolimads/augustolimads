@@ -1,4 +1,4 @@
-## Hi! I am Augusto Lima </br>Fullstack Developer
+## Hi! I am Augusto Lima </br>Front-end Developer
 
 #### My stack:
 * ReactJS;
