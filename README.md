@@ -8,6 +8,7 @@ Currently I'm a mobile developer at web.art with React Native. I also have exper
 * React Native: 1-2 year;
 * NodeJS/Express: 0-1 year;
 * Git: 2-3 years;
+* Jest: 0-1 year;
 * Figma: 1-2 years;
 * Adobe XD: 2-3 years;
 
