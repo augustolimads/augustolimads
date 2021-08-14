@@ -5,7 +5,7 @@ Currently I'm a mobile developer at web.art with React Native. I also have exper
 #### Experience:
 * Javascript: 2-3 years;
 * ReactJS: 1-2 years;
-* React Native: 0-1 year;
+* React Native: 1-2 year;
 * NodeJS/Express: 0-1 year;
 * Git: 2-3 years;
 * Figma: 1-2 years;
