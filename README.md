@@ -1,4 +1,5 @@
-<img src="https://github.com/augustolimads/augustolimads/blob/master/github_frame_dark.png">
+## Hi, I am Augusto Lima - Front-end Developer
+I like work with web and mobile development and I'm a UI / UX enthusiast
 
 #### Experience:
 * Javascript: 2-3 years;
@@ -14,3 +15,5 @@
 #### Would you like to contact me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustolimads)](https://www.linkedin.com/in/augustolimads/)
+
+<img src="https://github.com/augustolimads/augustolimads/blob/master/animation_500_ksw5wutc.gif"/>
