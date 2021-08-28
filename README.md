@@ -1,4 +1,4 @@
-<img src="https://github.com/augustolimads/augustolimads/blob/master/github_frame.png">
+<img src="https://github.com/augustolimads/augustolimads/blob/master/github_frame_dark.png">
 
 #### Experience:
 * Javascript: 2-3 years;
