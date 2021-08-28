@@ -1,6 +1,4 @@
-## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Augusto Lima </br>Front-end Mobile Developer
-
-Currently I'm a mobile developer at web.art with React Native. I also have experience with web development using ReactJS and I'm UI/UX Enthusiast. 
+<img src="https://github.com/augustolimads/augustolimads/blob/master/github_frame.png">
 
 #### Experience:
 * Javascript: 2-3 years;
