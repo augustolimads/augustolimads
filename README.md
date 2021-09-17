@@ -1,5 +1,5 @@
 ## Hi, I am Augusto Lima - Front-end Developer
-I like work with web and mobile development and I'm a UI / UX enthusiast
+I like working with web and mobile development, and I'm a UI / UX enthusiast
 
 #### Experience:
 * Javascript: 2-3 years;
