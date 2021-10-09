@@ -1,6 +1,6 @@
 ## Hi, I am Augusto Lima - Front-end Developer
 - I like working with web and mobile development, and I'm a UI / UX enthusiast;
-- Currently React Native Developer at  [web.art Group](https://www.webart.com.br/);
+- Currently Front-end Developer at [Petz](https://www.petz.com.br/);
 - Graduated in Analysis and Systems Development at Unifavip | Wyden;
 
 #### Experience:
