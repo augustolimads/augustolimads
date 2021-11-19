@@ -3,15 +3,15 @@
 - Currently Front-end Developer at [Petz](https://www.petz.com.br/);
 - Graduated in Analysis and Systems Development at Unifavip | Wyden;
 
-#### Experience:
-* Javascript: 2-3 years;
-* ReactJS: 1-2 years;
-* React Native: 1-2 year;
-* NodeJS/Express: 0-1 year;
-* Git: 2-3 years;
-* Jest: 0-1 year;
-* Figma: 1-2 years;
-* Adobe XD: 2-3 years;
+#### Experience with:
+* Javascript/Typescript;
+* ReactJS;
+* React Native;
+* NodeJS/Express;
+* Git;
+* Jest;
+* Figma;
+* Adobe XD;
 
 
 #### Would you like to contact me?
